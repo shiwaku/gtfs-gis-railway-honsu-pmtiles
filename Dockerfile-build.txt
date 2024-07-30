@@ -1,0 +1,11 @@
+# Dockerイメージのビルド
+docker build -t shiworks/tippecanoe-gdal:latest .
+
+# ビルドしたイメージのテスト
+docker run -it shiworks/tippecanoe-gdal:latest bash
+
+exit
+
+# Docker Hubにイメージをプッシュ
+docker login
+docker push shiworks/tippecanoe-gdal:latest

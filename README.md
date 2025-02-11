@@ -50,8 +50,7 @@
   - 国土数値情報 鉄道データ（2022 年度）
   - 政府統計の総合窓口（e-Stat） 人口集中地区データ（2020 年）
 
-https://shiwaku.github.io/traffic-map-on-maplibre-gl-js/#10.36/35.683/139.6754  
-![image](https://github.com/shiwaku/gtfs-gis-railway-honsu-pmtiles/assets/71203808/516c02d2-4fe0-46d7-a35d-b8d74e17f219)
+https://shiwaku.github.io/railway-honsu-map-on-maplibre/
 
 ## 免責事項
 
